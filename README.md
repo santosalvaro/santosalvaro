@@ -6,9 +6,12 @@ Estudante de Sistemas de Informação
 
 Apredendo sobre segurança da informação
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosalvaro&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosalvaro&layout=compact&theme=dark"/>
+<div alinhar = " centro ">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosalvaro&show_icons=true&theme= radical &count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=santosalvaro&show_icons=true&show_icons=true&theme= radical &count_private=true" />
+<div alinhar = " esquerda ">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosalvaro&show_icons=true&theme= bear &count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=santosalvaros&show_icons=true&show_icons=true&theme= bear &count_private=true" />
 </div>
 
 ###  Vamos nos conectar:
@@ -24,5 +27,7 @@ Apredendo sobre segurança da informação
 <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+
 
 </div>
