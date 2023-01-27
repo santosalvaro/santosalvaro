@@ -23,7 +23,6 @@ Apredendo sobre segurança da informação
 ###  Vamos nos conectar:
 
 [![ Linkdin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/álvaro-lima-788a98239)
-[![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvarolima.07/)
 
 ###  Tecnologias e Ferramentas:
 
